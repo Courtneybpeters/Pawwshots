@@ -1,16 +1,6 @@
 ApplicationInsights.config
 Assets\LockScreenLogo.scale-200.png
-Assets\settings.png
-Assets\sound_select.png
-Assets\Sounds\Bird.mp3
-Assets\Sounds\Cat.mp3
-Assets\Sounds\Falcon.mp3
-Assets\Sounds\Growling.mp3
-Assets\Sounds\Hen.mp3
-Assets\Sounds\Howl.mp3
 Assets\Sounds\pig.wav
-Assets\Sounds\PinDropping.mp3
-Assets\Sounds\Ricochet.mp3
 Assets\Sounds\squirrel.wav
 Assets\Sounds\weird.wav
 Assets\SplashScreen.scale-200.png

@@ -31,6 +31,7 @@ namespace pawwshots
         {
             Windows.Storage.ApplicationDataContainer localSettings = Windows.Storage.ApplicationData.Current.LocalSettings;
             localSettings.Values["soundChosen"] = (sender as Button).Name;
+            this.Frame.Navigate(typeof(MainPage));
         }
     }
 }

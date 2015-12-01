@@ -117,19 +117,9 @@
     <None Include="pawwshots_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\settings.png" />
-    <Content Include="Assets\Sounds\Bird.mp3" />
-    <Content Include="Assets\Sounds\Cat.mp3" />
-    <Content Include="Assets\Sounds\Falcon.mp3" />
-    <Content Include="Assets\Sounds\Growling.mp3" />
-    <Content Include="Assets\Sounds\Hen.mp3" />
-    <Content Include="Assets\Sounds\Howl.mp3" />
     <Content Include="Assets\Sounds\pig.wav" />
-    <Content Include="Assets\Sounds\PinDropping.mp3" />
-    <Content Include="Assets\Sounds\Ricochet.mp3" />
     <Content Include="Assets\Sounds\squirrel.wav" />
     <Content Include="Assets\Sounds\weird.wav" />
-    <Content Include="Assets\sound_select.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
